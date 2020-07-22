@@ -6,6 +6,10 @@ body div div {
   display:  none;
 }
 
+#wall#tag-3{
+  display: none;
+}
+
 #parent div{
   display: none;
 }
