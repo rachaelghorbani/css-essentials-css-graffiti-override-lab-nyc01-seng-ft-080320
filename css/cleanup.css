@@ -3,6 +3,10 @@ body div div {
   display: none ;
 }
 
+body div{
+  display:none;
+}
+
  body > div#wall div#tag-1 {
   display: none;
 } 
